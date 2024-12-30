@@ -1,2 +1,5 @@
 streamlit
 yfinance
+icecream
+numpy
+typing
